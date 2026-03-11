@@ -4,6 +4,12 @@ Full Stack Software Developer | Linux Enthusist
 
 #### Tech Stack
 
+##### Frontend
+HTML, CSS, React, Remix, Material UI, 
+
+##### Backend
+JavaScript, TypeScript, Node.js, Express.js, Python, PostgeSQL,
+
 #### Featured Projects
 
 #### Connect With Me
