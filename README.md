@@ -15,7 +15,6 @@ JavaScript, TypeScript, Node.js, Express.js, Python, PostgeSQL,
 #### Connect With Me
 - Email: inquires@raiganmada.com
 - LinkedIn: www.linkedin.com/in/adamnagiar/
-- Portfolio: raiganmada.com
 
 <!--
 **RaiganMada/RaiganMada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
